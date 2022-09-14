@@ -32,14 +32,14 @@ alert( result );
 ```
 
 ## Experience:
-https://creative-agency-landing-page.s3.eu-west-1.amazonaws.com/index.html
-https://mountain-landing-page.s3.eu-west-1.amazonaws.com/index.html
-https://travel-agency-landing-page.s3.eu-west-1.amazonaws.com/index.html
-https://stroy.s3.eu-west-1.amazonaws.com/index.html
+[Creative Agency] [https://creative-agency-landing-page.s3.eu-west-1.amazonaws.com/index.html]
+[Mountain] [https://mountain-landing-page.s3.eu-west-1.amazonaws.com/index.html]
+[Travel Agency] [https://travel-agency-landing-page.s3.eu-west-1.amazonaws.com/index.html]
+[Стройкомплект-С] [https://stroy.s3.eu-west-1.amazonaws.com/index.html]
 
 ## Courses:
-HTML Academy (completed)
-JavaScript https://learn.javascript.ru/
+HTML Academy 
+[JavaScript] [https://learn.javascript.ru/]
 
 ## Languages:
 StreamLine Language School English test result: Pre-Intermediate (CEFR A2+).
