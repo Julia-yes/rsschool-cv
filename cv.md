@@ -42,5 +42,5 @@ alert( result );
 * [JavaScript] [https://learn.javascript.ru/]
 
 ## Languages:
-* StreamLine Language School English test result: Pre-Intermediate (CEFR A2+).
+* English: Pre-Intermediate (StreamLine Language School CEFR A2+).
 * Russian - Native
